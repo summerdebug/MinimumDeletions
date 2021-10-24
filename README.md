@@ -22,8 +22,8 @@ This initialization with O(L) complexity should be performed only once on class 
 
 ## 2 possible algorithms
 There are 2 possible algorithms to solve this task:
-1. Dictionary traversal, complexity is O(W * L);
-2. Word traversal, complexity is O(Math.pow(2, W) * log(L))
+1. Dictionary traversal, complexity is O(W * L)
+2. Word traversal, complexity is O(Math.pow(2, W))
 
 I implemented the algorithm of dictionary traversal,
 as it's complexity linearly depends on the lengths of the requested word and the dictionary.
