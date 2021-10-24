@@ -3,7 +3,7 @@
 - Java 11
 
 # Run
-Import the project as a Maven project to IDE and run test class CharacterDeletionsTests.
+Import the project to IDE as a Maven project and run the test class `CharacterDeletionsTest`.
 
 # Complexity
 ## General
